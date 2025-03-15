@@ -1,6 +1,6 @@
 ## NYC Sales Tax Calculator
 
-![Screenshot of app](./screenshot.png | width=150)
+<img src="screenshot.png" width="200">
 
 This is an example app for Android Studio that uses jetpack compose for basic UI arrangement. Each feature has comments with the source I got that bit of information - to help you understand the patterns we extract from documentation and stack overflow. 
 
